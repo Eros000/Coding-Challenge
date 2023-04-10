@@ -1,0 +1,73 @@
+body{
+    background-size: 100%;
+    background-image: url("background.jpg");
+    background-repeat: no-repeat;
+}
+
+.container{
+    width: 1000px;
+    height: 800px;
+    margin-top: 75px;
+    margin-left: 400px;
+    padding-top: 100px;
+    padding-left: 100px;
+    padding-right: 100px;
+    background-color: rgba(0, 0, 0, 0.600);
+    border-radius: 5%;
+    
+}
+
+.logo{
+    width: 250px;
+    padding-left: 35%;
+}
+
+.title{
+    text-align: center;
+    color: rgb(2, 214, 2);
+}
+
+nav{
+    padding-left: 35%;
+    padding-top: 10px;
+    background-color: rgb(2, 214, 2);
+    height: 30px;
+    
+    
+}
+
+.selection{
+    color: white;
+
+    
+}
+
+.selection > h2{
+    display: inline-block;
+    margin-bottom: 1px;
+}
+
+#level-charge1{
+    background-color: rgb(255, 184, 53);
+    border-color: rgb(255, 184, 53);
+    width: 350px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#level-charge2{
+    background-color: rgb(0, 187, 0);
+    border-color: rgb(0, 187, 0);
+    width: 600px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+}
+
+#level-charge3{
+    background-color: rgb(138, 18, 10);
+    border-color: rgb(138, 18, 10);
+    width: 150px;
+    height: 30px;
+    border-radius: 10px 10px 10px 10px;
+}
+
